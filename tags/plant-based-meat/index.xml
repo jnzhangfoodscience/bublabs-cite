@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plant-Based Meat on Bublabs</title>
+    <link>http://localhost:1313/tags/plant-based-meat/</link>
+    <description>Recent content in Plant-Based Meat on Bublabs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/plant-based-meat/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Publication on FEA for Plant-Based Meat</title>
+      <link>http://localhost:1313/news/3/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/3/</guid>
+      <description>We publish in &lt;em&gt;Physics of Fluids&lt;/em&gt; on how finite element modeling can advance the texture of plant-based meat.</description>
+    </item>
+  </channel>
+</rss>
